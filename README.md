@@ -12,3 +12,7 @@ Fullscreen browser overlay to show your Twitch overlay on top of your game.
 1. Download and extract the [latest release](https://github.com/Deathspike/FullscreenBrowserOverlay/releases).
 2. Run *FullscreenBrowserOverlay.exe*.
 3. The overlay is now waiting for you in your tray bar.
+
+## Video Tutorial
+
+https://www.youtube.com/watch?v=A1byHB0PoLA
